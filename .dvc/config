@@ -1,0 +1,4 @@
+[core]
+    remote = banco
+['remote "banco"']
+    url = gdrive://1WkXLILR1ZxANdleqIjQ1MWjRrCSYjQZA
